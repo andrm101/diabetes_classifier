@@ -38,9 +38,6 @@ Already Done
 - After encoding, the amount part has skew 0.07 / −0.11 and 0 % outliers.
 - The indicators carry signal: % diabetes is 60.5 vs 41.9 for PhysHlth_any = 1 vs 0, and 53.0 vs 48.6 for MentHlth_any.
 
-### 0.5 Scaler comparison (log1p features + scaler on the remaining columns, 5-fold stratified CV)
-
-
 ## 1. Feature Selection 
 EDA -> Feature Selection
 KBEST, Recursive Feature Elimination, PCA -> Feature Selection
